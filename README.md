@@ -1,4 +1,4 @@
-# To-Do-List <a href="https://online-to-do-list.netlify.app/">online-to-do-list.netlify.app</a>
-Online, responsive, To Do List App that can save the tasks into local storage.
+# Task-Management <a href="https://marvokmarude.github.io/task_management_app/">task-management-app</a>
+Online, responsive, Task Management App (also considered a todoList) that saves all tasks entered into it to local storage. It does the CRUD operations.
 
-Whenever you enter from a device, your information won't be lost from the device unless clear local storage by clearing the history or doing something else.
+Unless you clear the local storage by deleting the history or taking some other action, your information will remain on the device when you log in from it.
